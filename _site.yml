@@ -15,7 +15,6 @@ navbar:
     - text: "CV"
       href: https://mskar.github.io/cv/
     - text: "GitHub"
-      icon: fab fa-github
       href: https://github.com/mskar/
 collections:
   posts:
