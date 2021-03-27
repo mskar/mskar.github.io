@@ -92,7 +92,7 @@ Take a look at `about.Rmd` and start filling out the front matter with your own 
 ```
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/martin-skarzynski-0714a92/"
+    url: "https://www.linkedin.com/in/mskar/"
   - label: Twitter
     url: "https://twitter.com/marskar"
   - label: Portfolio

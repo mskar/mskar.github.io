@@ -3,7 +3,7 @@ title: "Martin Skarzynski"
 image: "image/martin.png"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/martin-skarzynski-0714a92/"
+    url: "https://www.linkedin.com/in/mskar/"
   - label: Twitter
     url: "https://twitter.com/marskar"
   - label: Email
