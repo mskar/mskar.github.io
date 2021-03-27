@@ -2,7 +2,7 @@
 
 Martin Skarzynski
 
-This site is based on the workshop created by Ted Laderas: https://github.com/laderast/distill_website/
+This site is based on the workshop created by Martin Skarzynski: https://github.com/mskar/distill_website/
 
 Below I will outline the steps I took to create my own site using this workshop template.
 
@@ -92,9 +92,9 @@ Take a look at `about.Rmd` and start filling out the front matter with your own 
 ```
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/ted-laderas-0714a92/"
+    url: "https://www.linkedin.com/in/martin-skarzynski-0714a92/"
   - label: Twitter
-    url: "https://twitter.com/tladeras"
+    url: "https://twitter.com/marskar"
   - label: Portfolio
     url: "index.html"
   - label: Email

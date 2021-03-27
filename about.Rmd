@@ -6,7 +6,7 @@ links:
     url: "https://www.linkedin.com/in/mskar/"
   - label: Twitter
     url: "https://twitter.com/marskar"
-  - label: Portfolio
+  - label: Blog
     url: "index.html"
   - label: Email
     url: "mailto:mskar@dr.com"
