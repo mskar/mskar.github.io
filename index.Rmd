@@ -24,9 +24,9 @@ I am a data scientist👨‍🔬  and machine🤖  learning🧠  engineer with a
 
 I use the Python🐍  and R®️   programming languages along with UNIX shell🐚  tools🛠  to extract insights from data.
 
-I write✏️  about topics related to data science, machine learning, and computer programming on <a href = "blog.html">my blog</a>.<i class="fa fa-pencil-alt fa-2x"></i>
+I write✏️  about topics related to data science, machine learning, and computer programming on <a href = "blog.html">my blog</a><i class="fa fa-pencil-alt fa-2x"></i>.
 
-My professional background and experience is summarized in <a href = "https://mskar.github.io/cv">my Résumé / Curriculum Vitae</a>.<i class="fa fa-address-card fa-2x"></i>
+My professional background and experience is summarized in <a href = "https://mskar.github.io/cv">my Résumé / Curriculum Vitae</a><i class="fa fa-address-card fa-2x"></i>.
 
 ## Languages😛
 
