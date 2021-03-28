@@ -18,6 +18,8 @@ navbar:
       href: https://github.com/mskar/
     - icon: fab fa-twitter
       href: https://twitter.com/marskar
+    - icon: fab fa-linkedin-in
+      href: https://linkedin.com/in/mskar
     - icon: fa fa-rss
       href: blog.xml
 
