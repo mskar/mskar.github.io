@@ -2,16 +2,24 @@
 title: "Martin Skarzynski"
 image: "image/martin.png"
 links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/mskar/"
-  - label: Twitter
+  - label: '<i class="fab fa-twitter fa-3x"></i>'
     url: "https://twitter.com/marskar"
-  - label: Email
+  - label: '<i class="fab fa-github fa-3x"></i>'
+    url: "https://github.com/mskar"
+  - label: '<i class="far fa-envelope fa-3x"></i>'
     url: "mailto:mskar@dr.com"
+  - label: '<i class="fab fa-linkedin-in fa-3x"></i>'
+    url: "https://www.linkedin.com/in/mskar/"
+
+output: postcards::jolla
+ 
 site: distill::distill_website
-output:
-  postcards::trestles
 ---
+
+* I'm Martin, a data scientist and machine learning engineer.
+* I write about topics related to data science, machine learning, and computer programming on <a href = "blog.html">my blog</a> 📝
+* If you like, you can find out more <a href = "about.html">about me</a> 🙋
+* Or get in touch using the links below 📩
 
 # Greetings!👋
 

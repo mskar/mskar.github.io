@@ -22,6 +22,18 @@ I am a data scientist with a broad scientific background that ranges from molecu
 
 I use the Python and R programming languages along with command line (shell) tools to explore, analyze, visualize and present data.
 
+### Contact
+<!-- Add font awesome icons -->
+
+<div class="mylinks">
+<p style="text-align: center;">
+    <a href="https://github.com/mskar" target="_blank" class="fa fa-github"  style="font-size:36px;"></a>
+    <a href="mailto:mskar@dr.com" target="_blank" class="fa fa-envelope" style="font-size:36px;"></a>
+    <a href="https://www.linkedin.com/in/mskar/" target="_blank" class="fa fa-linkedin-square" style="font-size:36px;"></a>
+    <a href="https://twitter.com/marskar" target="_blank" class="fa fa-twitter" style="font-size:36px;"></a>
+</p>
+</div>
+
 ## Languages
 
 I speak
