@@ -2,10 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
     <loc>https://mskar.github.io/about.html</loc>
-    <lastmod>2021-03-21T12:52:11-04:00</lastmod>
+    <lastmod>2021-03-28T10:44:25-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/blog.html</loc>
+    <lastmod>2021-03-28T09:43:57-04:00</lastmod>
   </url>
   <url>
     <loc>https://mskar.github.io/</loc>
-    <lastmod>2021-03-27T17:34:40-04:00</lastmod>
+    <lastmod>2021-03-28T10:50:03-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2021-01-29-many-models-many-plots/</loc>
+    <lastmod>2021-03-28T09:43:55-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2021-01-17-rstudio-certification/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-12-26-powerof10-covid/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-11-30-model-stacking/</loc>
+    <lastmod>2021-03-28T09:43:55-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-11-22-bitmexr-logo/</loc>
+    <lastmod>2021-03-28T09:43:55-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-11-01-bayesian-networks-with-bnlearn/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-10-22-introducing-powerof10/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-08-02-python-package/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-07-14-deploy-model/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-06-21-penguins-and-nakedpipes/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-06-07-variable-inportance-with-fastshap/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-05-25-bitmexr-updates/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-05-23-tidymodel-notes/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-05-02-pretty-tables-with-gt/</loc>
+    <lastmod>2021-03-28T09:43:55-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-04-13-bitmexr/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-03-22-bitcoin/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-03-14-writing-a-thesis-in-r-markdown/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-03-08-athletics-rankings/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>https://mskar.github.io/posts/2020-03-07-first-post-again/</loc>
+    <lastmod>2021-03-28T09:43:56-04:00</lastmod>
   </url>
 </urlset>
