@@ -23,8 +23,6 @@ navbar:
 
 google_analytics: "G-5H43RR0QZG"
 
-favicon: favicon.ico
-
 collections:
   posts:
     categories: true
