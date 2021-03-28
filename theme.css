@@ -14,7 +14,7 @@
 
 html {
   /*-- Main font sizes --*/
-  --title-size:      90px;
+  --title-size:      20px;
   --body-size:       1.06rem;
   --code-size:       14px;
   --aside-size:      12px;
@@ -58,9 +58,9 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       30px;
   --text-color:       white;
-  --text-size:        15px;
+  --text-size:        30px;
   --hover-color:      #89ac81;
   --bkgd-color:       #000;
 }

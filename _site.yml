@@ -7,6 +7,7 @@ exclude: ["README.md", "README.html"]
 theme: theme.css
 output_dir: "docs"
 navbar:
+  search: false
   right:
     - icon: fas fa-home
       href: index.html
