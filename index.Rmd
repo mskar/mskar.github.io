@@ -11,9 +11,9 @@ links:
   - label: '<i class="fab fa-linkedin-in fa-3x"></i>'
     url: "https://www.linkedin.com/in/mskar/"
 
-output: postcards::jolla
- 
 site: distill::distill_website
+output:
+  postcards::trestles
 ---
 
 * I'm Martin, a data scientist and machine learning engineer.
