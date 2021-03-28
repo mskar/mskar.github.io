@@ -16,16 +16,13 @@ output:
   postcards::trestles
 ---
 
-* I'm Martin, a data scientist and machine learning engineer.
-* I write about topics related to data science, machine learning, and computer programming on <a href = "blog.html">my blog</a> 📝
-* If you like, you can find out more <a href = "about.html">about me</a> 🙋
-* Or get in touch using the links below 📩
-
 # Greetings!👋
 
 My name is Martin Skarzynski.
 
 I am a data scientist👨‍🔬  and machine🤖  learning🧠  engineer with a broad scientific background that ranges from molecular and cellular biology to epidemiology.
+
+I write✏️  about topics related to data science, machine learning, and computer programming on <a href = "blog.html">my blog</a>.
 
 I use the Python🐍  and R®️   programming languages along with UNIX shell🐚  tools🛠  to extract insights from data.
 
