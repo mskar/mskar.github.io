@@ -2,10 +2,9 @@
 
 Martin Skarzynski
 
-This site is based on the workshop created by Martin Skarzynski: https://github.com/mskar/distill_website/
+This README is based on the workshop created by Ted Laderas: https://github.com/laderast/distill_website/
 
 Below I will outline the steps I took to create my own site using this workshop template.
-
 
 ## Setup
 
