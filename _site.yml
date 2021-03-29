@@ -14,9 +14,9 @@ navbar:
     - icon: fas fa-pencil-alt
       href: blog.html
     - icon: fas fa-address-card
-      href: https://mskar.github.io/cv/
+      href: https://mskar.github.io/cv
     - icon: fab fa-github
-      href: https://github.com/mskar/
+      href: https://github.com/mskar
     - icon: fab fa-linkedin-in
       href: https://linkedin.com/in/mskar
     - icon: fa-envelope
