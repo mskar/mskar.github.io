@@ -26,7 +26,7 @@ I use the Python🐍  and R®️   programming languages along with UNIX shell�
 
 I write✏️  about topics related to data science, machine learning, and computer programming on <a href = "blog.html">my blog</a><i class="fa fa-pencil-alt"></i>.
 
-My professional background and experience is summarized in <a href = "https://mskar.github.io/cv">my Résumé / Curriculum Vitae</a><i class="fa fa-address-card"></i>.
+My professional information is summarized in <a href = "https://mskar.github.io/cv">my Résumé / Curriculum Vitae</a><i class="fa fa-address-card"></i>.
 
 ## Languages😛
 
@@ -57,5 +57,5 @@ My preferred tools are Python and R, open source programming languages kept on t
 
 Through research and teaching, I am constantly improving my ability to obtain, tidy, explore, transform, visualize, model, and communicate data.
 
-I aim to utilize my technical skills and science background to become a leader among the next generation of multidisciplinary data scientists
+I aim to utilize my technical skills and science background to become a leader among the next generation of multidisciplinary data scientists.
 
