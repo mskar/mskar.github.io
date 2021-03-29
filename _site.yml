@@ -17,13 +17,14 @@ navbar:
       href: https://mskar.github.io/cv/
     - icon: fab fa-github
       href: https://github.com/mskar/
-    - icon: fab fa-twitter
-      href: https://twitter.com/marskar
     - icon: fab fa-linkedin-in
       href: https://linkedin.com/in/mskar
+    - icon: fa-envelope
+      href: mailto:mskar@dr.com
+    - icon: fab fa-twitter
+      href: https://twitter.com/marskar
     - icon: fa fa-rss
       href: blog.xml
-
 google_analytics: "G-5H43RR0QZG"
 
 collections:

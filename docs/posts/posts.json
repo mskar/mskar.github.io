@@ -1,0 +1,14 @@
+[
+  {
+    "path": "posts/01_binary-classification/",
+    "title": "Somatic Mutations in Skin Paper",
+    "description": "More about somatic mutations in skin cancer.",
+    "author": [],
+    "date": "2021-03-28",
+    "categories": [],
+    "contents": "\nThis paper, High burden and pervasive positive selection of somatic mutations in normal human skin is fascinating. It suggests that the mutational burden is much higher than we expected in skin cells due to UV exposure. In addition, subclones exist in the skin that are positively selected for oncogenes.\nIt also makes me want to stock up on sunscreen.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-03-28T19:44:40-04:00",
+    "input_file": {}
+  }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Martin Skarzynski, PhD, MS, MPH</title>
+    <link>https://mskar.github.io/</link>
+    <atom:link href="https://mskar.github.io/blog.xml" rel="self" type="application/rss+xml"/>
+    <description>Website for Martin Skarzynski, PhD
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Sun, 28 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Somatic Mutations in Skin Paper</title>
+      <link>https://mskar.github.io/posts/01_binary-classification</link>
+      <description>More about somatic mutations in skin cancer.</description>
+      <guid>https://mskar.github.io/posts/01_binary-classification</guid>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
