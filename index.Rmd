@@ -16,17 +16,41 @@ output:
   postcards::trestles
 ---
 
-# Greetings!👋
+## Greetings! <img src="https://raw.githubusercontent.com/mskar/mskar/master/wave.gif" width="30px">
 
 My name is Martin Skarzynski.
 
-I am a data scientist👨‍🔬  and machine🤖  learning🧠  engineer with a broad scientific background that ranges from biochemistry to epidemiology.
+I am a data📊 scientist👨‍🔬 and machine🤖 learning🧠 engineer👨‍💻 with a broad scientific background that ranges from biochemistry to epidemiology.
+I use the JavaScript🕸 Python🐍 and R®️  programming languages along with UNIX shell🐚 tools🛠 to extract and convey insights from data.
 
-I use the Python🐍  and R®️   programming languages along with UNIX shell🐚  tools🛠  to extract insights from data.
-
-I write✏️  about topics related to data science, machine learning, and computer programming on <a href = "blog.html">my blog</a><i class="fa fa-pencil-alt"></i>.
+I write✏️ about topics related to data science, machine learning, and computer programming on <a href = "blog.html">my blog</a><i class="fa fa-pencil-alt"></i>.
 
 My professional information is summarized in <a href = "https://mskar.github.io/cv">my Résumé / Curriculum Vitae</a><i class="fa fa-address-card"></i>.
+
+## Technologies💻
+![](https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-DataSpell-informational?style=flat&logo=jetbrains&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-GNU-informational?style=flat&logo=gnu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Rstats-informational?style=flat&logo=r&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Webstorm-informational?style=flat&logo=webstorm&logoColor=white&color=2bbc8a)
 
 ## Languages😛
 
