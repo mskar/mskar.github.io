@@ -16,7 +16,7 @@ output:
   postcards::trestles
 ---
 
-## Greetings! <img src="https://raw.githubusercontent.com/mskar/mskar/master/wave.gif" width="30px">
+## Greetings! <img src="https://raw.githubusercontent.com/mskar/mskar/master/wave.gif" width="40px">
 
 My name is Martin Skarzynski.
 
