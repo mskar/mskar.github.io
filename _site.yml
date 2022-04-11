@@ -3,7 +3,7 @@ title: "Martin Skarzynski, PhD, MS, MPH"
 base_url: https://mskar.github.io/
 description: |
   Website for Martin Skarzynski, PhD
-exclude: ["README.md", "README.html", "2021-04-02_resume_skarzynski-martin.docx", "2021-04-02_resume_skarzynski-martin.pdf"]
+exclude: ["README.md", "README.html", "2022-04-11_resume_skarzynski-martin.pdf"]
 theme: theme.css
 output_dir: "docs"
 navbar:
